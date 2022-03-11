@@ -1,4 +1,4 @@
-# Descrição
+# Descrição do Projeto
 
 Projeto de irrigação automático IOT com Arduino NodeMCU ESP8266 com suporte Alexa
 
@@ -26,20 +26,27 @@ Projeto de irrigação automático IOT com Arduino NodeMCU ESP8266 com suporte A
 + LiquidCrystal_I2C - para uso do displayLCD
 + ESP8266WiFi - Configurações da rede wi-fi
 
-### Suporte Alexa
+#### Suporte Alexa
 
 + Fauxmo - biblioteca de suporte para alexa
 
-### Esquema de ligação
+#### Esquema de ligação
 
-![Esquema-regador-plantas-automatico-arduino-nodeMcu-esp8266-iot-alexa drawio](https://user-images.githubusercontent.com/42357180/157961208-0d8d545e-b21c-4662-8905-a810b3003a60.png)
-
-
-### Configurações
+![Esquema-regador-plantas-automatico-arduino-nodeMcu-esp8266-iot-alexa drawio](https://user-images.githubusercontent.com/42357180/157962078-32cefca9-b91f-4a1e-9d09-8f1fb5d1eeff.png)
 
 
+#### Codigo - explicações
 
-### Codigo
+
++ **Configurações da rede wi-fi**
+
+```
+//Configração do WiFi
+const char* ssid = "nome da rede wi-fi";  // SSID Wifi
+const char* password = "pwd";  // Senha Wifi
+```
+
+
 
 
 
