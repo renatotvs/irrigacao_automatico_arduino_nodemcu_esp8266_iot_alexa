@@ -4,7 +4,7 @@ Projeto de irrigação automático IOT com Arduino NodeMCU ESP8266 com suporte A
 
 ## Funcionalidades:
 
-+ **1) irrigação automática:** é feito medição no solo de uma em uma hora com o sensor de umidade. Quando o sensor medir abaixo de 70% de umidade é onde é feito a irrigação. Após a irrigação será feito na próxima hora uma nova verificação de umidade do solo.
++ **1) irrigação automática:** é feito medição no solo de uma em uma hora com o sensor de umidade. Quando o sensor medir abaixo de 70% de umidade é onde é feito a irrigação. Após a irrigação será feito na próxima hora uma nova verificação do solo.
 
 O ideal que o solo esteja regado e mantido em uma umidade entre 70 a 80%. Nesse projeto definimos que o corte será abaixo de 70%.
 
