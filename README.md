@@ -68,6 +68,13 @@ const char* password = "pwd";  // Senha Wifi
 
 ### Protótipo do projeto em funcionamento
 
+![20220309_141822](https://user-images.githubusercontent.com/42357180/157976663-1d519da9-b9b1-4abc-a54d-e595b4c1e4bb.jpg)
+
+![20220309_141934](https://user-images.githubusercontent.com/42357180/157976722-456cf787-df0f-46d4-bd9d-581f263302f7.jpg)
+
+![20220310_131016](https://user-images.githubusercontent.com/42357180/157976806-e7ce7529-72fe-475f-8ac4-2bd532b1aa8f.jpg)
+
+![image](https://user-images.githubusercontent.com/42357180/157976976-ac23a595-f987-485b-b26b-3afe6a9b619b.png)
 
 
 
