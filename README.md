@@ -55,7 +55,7 @@ Explicação da biblioteca FauxmoESP:
 #define LAMP_1 "IRRIGAÇÃO"
 ```
 
-**Obs:** Na Alexa o dispositivo será detectado como lampada.
+**Obs:** Na Alexa o dispositivo será detectado como lampada como o nome de IRRIGAÇÃO.
 
 + **Configurações da rede wi-fi**
 
@@ -65,6 +65,8 @@ const char* ssid = "nome da rede wi-fi";  // SSID Wifi
 const char* password = "pwd";  // Senha Wifi
 ```
 
+
+### Protótipo do projeto em funcionamento
 
 
 
