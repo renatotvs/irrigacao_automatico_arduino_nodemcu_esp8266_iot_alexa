@@ -42,7 +42,7 @@ O objetvo de usar alexa nesse projeto é dar como opcional a funcionalidade de i
 
 Explicação da biblioteca FauxmoESP: 
 
-#### Esquema de ligação
+#### Esquema básico de ligação
 
 ![Esquema-regador-plantas-automatico-arduino-nodeMcu-esp8266-iot-alexa drawio](https://user-images.githubusercontent.com/42357180/157962078-32cefca9-b91f-4a1e-9d09-8f1fb5d1eeff.png)
 
