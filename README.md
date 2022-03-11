@@ -15,12 +15,10 @@ O objetvo de usar alexa nesse projeto é dar como opcional a funcionalidade de i
 
 #### Componentes utilizados
 
-+ Placa Arduino NodeMCU ESP8266
++ Placa Arduino NodeMCU V3 ESP8266
 + Base Shield NodeMCU V3
-+ Arduino NodeMCU V3 com ESP8266
-+ Placa Base para NodeMCU V3 Loli
 + Display LCD - I2C
-+ Sensor de Umidade
++ Sensor de Umidade do solo
 + Relê 5v
 + Válvula elétrica solenoide 12V
 + Terminal femea (para ligar nos polos da solenóide)
