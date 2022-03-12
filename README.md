@@ -12,7 +12,7 @@ O objetivo da irrigação automática é garantir que o solo seja sempre regado 
 
 + **2) Irrigação manual:** (Poderá ser feito via navegador web pela rede wi-fi ou pelo dispositivo alexa)
 
-Usar alexa nesse projeto é dar como opcional a funcionalidade de irrigação manual que pode ser acionada dizendo "Alexa, ligar irrigação" e "Alexa, desligar irrigação" ou por outras chamadas personalizadas.
+Usar alexa nesse projeto é dar como opcional a funcionalidade de irrigação manual que pode ser acionada dizendo "Alexa, ligar irrigação" e "Alexa, desligar irrigação" ou por outras chamadas personalizadas ou até mesmo de forma agendada.
 
 #### Componentes utilizados para montar o circuito eletrônico
 
