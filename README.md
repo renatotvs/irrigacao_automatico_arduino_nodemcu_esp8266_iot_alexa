@@ -4,16 +4,17 @@ Projeto de irrigação automático IOT com Arduino NodeMCU ESP8266 com suporte A
 
 ## Funcionalidades:
 
-+ **1) irrigação automática:** é feito medição no solo de uma em uma hora com o sensor de umidade. Quando o sensor medir abaixo de 70% de umidade é onde é feito a irrigação. O tempo definido de irrigação é de 30 segundos.
++ **1) irrigação automática:** o mecanismo de medição do solo é feito de uma em uma hora. Quando o sensor calcula estar abaixo de 70% de umidade é acionado o processo de irrigação. O tempo definido de irrigação foi de 30 segundos. O Tempo é tratado de acordo com a necessidade do solo e fluxo controlado de água. Esse controle pode ser feito atravéz de cotejadores que podem ser definidos para cada planta. 
 
-O ideal que o solo esteja regado e mantido em uma umidade entre 70 a 80%. Nesse projeto definimos que o corte será abaixo de 70%.
+**Exemplo:** Uma determinada planta em um vaso maior você pode aumentar o fluxo de água no cotejador e em outra planta com vaso menor você pode definir um fluxo menor de água.
 
-+ **2) Irrigação manual:** (Poderá ser feito via navegador pela rede wi-fi ou pela alexa remotamente)
+O objetivo da irrigação automática é garantir que o solo seja sempre regado de acordo com as condições de umidade do solo, garantindo uma vida mais saudável as plantas. Nesse projeto destacamos a importância de manter a umidade entre 70 a 80%. Definimos que o corte será abaixo de 70%.
 
-O objetvo de usar alexa nesse projeto é dar como opcional a funcionalidade de irrigação manual que pode ser acionada dizendo "Alexa, ligar irrigação" e "Alexa, desligar irrigação" ou por outras chamadas personalizadas.
++ **2) Irrigação manual:** (Poderá ser feito via navegador web pela rede wi-fi ou pelo dispositivo alexa)
 
+Usar alexa nesse projeto é dar como opcional a funcionalidade de irrigação manual que pode ser acionada dizendo "Alexa, ligar irrigação" e "Alexa, desligar irrigação" ou por outras chamadas personalizadas.
 
-#### Componentes utilizados
+#### Componentes utilizados para montar o circuito eletrônico
 
 + Placa Arduino NodeMCU V3 ESP8266
 + Base Shield NodeMCU V3
@@ -23,12 +24,19 @@ O objetvo de usar alexa nesse projeto é dar como opcional a funcionalidade de i
 + Válvula elétrica solenoide 12V
 + Terminal femea (para ligar nos polos da solenóide)
 + Fonte de alimentação 12V 1A
-+ Plug P4 (para ligar fonte e arduino)
++ Conector Adaptador Borne X Plug P4 Fêmea (faz a ligação da fonte e o regulador de tensão)
 + Regulador De Tensão 5v LM7805
 + Capacitor para saída de 5v
 + Capacitor para entrada de 12v
 + Dissipador para o regulador de tensão
 + Pasta Térmica
+
+#### Materiais utilizados para irrigação das plantas
+
++ Kit Irrigação Completo Gotejamento P Horta Ou Vasos
+
+![image](https://user-images.githubusercontent.com/42357180/158000720-b31f9958-adb0-4090-bfbb-46adf0b63f92.png)
+
 
 #### Bibliotecas principais Utilizadas
 
