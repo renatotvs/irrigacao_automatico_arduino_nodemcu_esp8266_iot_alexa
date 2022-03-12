@@ -62,7 +62,7 @@ Explicação da biblioteca FauxmoESP:
 
 #### Esquema de ligação - pinagem
 
-![Esquema-regador-plantas-automatico-arduino-nodeMcu-esp8266-iot-alexa-pinagem drawio](https://user-images.githubusercontent.com/42357180/158026694-efd7a4de-4655-42f8-b3c2-cabaeb4baee3.png)
+![Esquema-regador-plantas-automatico-arduino-nodeMcu-esp8266-iot-alexa-pinagem drawio (1)](https://user-images.githubusercontent.com/42357180/158026757-d1c08b9b-f15c-42e8-a3c2-836e29ad5387.png)
 
 #### Codigo - explicações
 
