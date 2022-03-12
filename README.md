@@ -8,7 +8,7 @@ Projeto de irrigação automático IOT com Arduino NodeMCU ESP8266 com suporte A
 
 **Exemplo:** Uma determinada planta em um vaso maior você pode aumentar o fluxo de água no cotejador e em outra planta com vaso menor você pode definir um fluxo menor de água.
 
-O objetivo da irrigação automática é garantir que o solo seja sempre regado de acordo com as condições de umidade do solo, garantindo uma vida mais saudável as plantas. Nesse projeto destacamos a importância de manter a umidade entre 70 a 80%. Definimos que o corte será abaixo de 70%.
+O objetivo da irrigação automática é garantir que o solo seja sempre regado de acordo com as condições de umidade do solo, garantindo uma vida mais saudável para as plantas. Nesse projeto destacamos a importância de manter a umidade entre 70 a 80%. Definimos que o corte será abaixo de 70%.
 
 + **2) Irrigação manual:** (Poderá ser feito via navegador web pela rede wi-fi ou pelo dispositivo alexa)
 
