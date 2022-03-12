@@ -20,8 +20,8 @@ Usar alexa nesse projeto é dar como opcional a funcionalidade de irrigação ma
 + Base Shield NodeMCU V3
 + Display LCD - I2C
 + Sensor de Umidade do solo
-+ Relê 5v
 + Válvula elétrica solenoide 12V
++ Relê 5v (responsável por acionar a válvula elétrica)
 + Terminal femea (para ligar nos polos da solenóide)
 + Fonte de alimentação 12V 1A
 + Conector Adaptador Borne X Plug P4 Fêmea (faz a ligação da fonte e o regulador de tensão)
