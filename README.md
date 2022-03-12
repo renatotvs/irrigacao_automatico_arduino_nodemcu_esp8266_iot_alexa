@@ -51,6 +51,11 @@ Usar alexa nesse projeto é dar como opcional a funcionalidade de irrigação ma
 
 Explicação da biblioteca FauxmoESP: 
 
+#### IOT nuvem ThingSpeak (gratuito)
+
++ Plataforma onde configuro para receber as medições do solo do dispositivo IOT
++ Acompanhamento em tempo real por gráfico
+
 #### Esquema básico de ligação
 
 ![Esquema-regador-plantas-automatico-arduino-nodeMcu-esp8266-iot-alexa drawio](https://user-images.githubusercontent.com/42357180/157962078-32cefca9-b91f-4a1e-9d09-8f1fb5d1eeff.png)
