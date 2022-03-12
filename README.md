@@ -30,6 +30,7 @@ Usar alexa nesse projeto é dar como opcional a funcionalidade de irrigação ma
 + Capacitor para entrada de 12v
 + Dissipador para o regulador de tensão
 + Pasta Térmica
++ Caixa de Passagem tampa transparente (estrutura para armazenar o circuito eletrônico)
 
 #### Materiais utilizados para irrigação das plantas
 
