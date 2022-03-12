@@ -51,9 +51,9 @@ Usar alexa nesse projeto é dar como opcional a funcionalidade de irrigação ma
 
 Explicação da biblioteca FauxmoESP: 
 
-#### IOT nuvem ThingSpeak (gratuito)
+#### IOT nuvem ThingSpeak
 
-+ Plataforma onde configuro para receber as medições do solo do dispositivo IOT
++ Plataforma gratuita que configuro para receber as medições do solo do dispositivo IOT
 + Acompanhamento em tempo real por gráfico
 
 #### Esquema básico de ligação
