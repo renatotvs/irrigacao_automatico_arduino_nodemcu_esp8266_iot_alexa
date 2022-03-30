@@ -53,7 +53,7 @@ Explicação da biblioteca FauxmoESP:
 
 #### IOT nuvem ThingSpeak
 
-+ Plataforma gratuita que configuro para receber as medições do solo do dispositivo IOT
++ Plataforma gratuita que configuro para receber as medições de umidade do solo
 + Acompanhamento em tempo real por gráfico
 
 #### Esquema básico de ligação
